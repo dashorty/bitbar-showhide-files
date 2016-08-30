@@ -1,2 +1,2 @@
 # bitbar-showhide-files
-bitbar plugin show hidden files or not
+[bitbar plugin](https://getbitbar.com/) - show hidden files or not
