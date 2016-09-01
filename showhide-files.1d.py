@@ -6,7 +6,7 @@
 # <bitbar.author>Thomas Kurz</bitbar.author>
 # <bitbar.author.github>dashorty</bitbar.author.github>
 # <bitbar.desc>Show hidden files in Finder</bitbar.desc>
-# <bitbar.image>https://github.com/dashorty/bitbar-showhide-files/blob/master/screenshot.png</bitbar.image>
+# <bitbar.image>https://github.com/dashorty/bitbar-showhide-files/blob/master/screenshot.png?raw=true</bitbar.image>
 # <bitbar.abouturl>https://github.com/dashorty/bitbar-showhide-files</bitbar.abouturl>
 
 import sys
